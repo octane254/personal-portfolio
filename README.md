@@ -5,7 +5,7 @@ A modern, fully responsive portfolio website built with React, Vite, and Tailwin
 ![Portfolio Preview](https://img.shields.io/badge/status-live-success)
 ![React](https://img.shields.io/badge/React-18+-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## ✨ Features
 
