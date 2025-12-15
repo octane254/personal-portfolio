@@ -150,7 +150,7 @@ This project is Moringa School FOr Educational Purposes
 **Eric Mbithi**
 
 - GitHub: [@octane254](https://github.com/octane254)
-- Portfolio: [Your Live Portfolio URL]
+- Portfolio: (https://personal-portfolio-ten-tan-82.vercel.app/)
 
 ## ⭐ Show Your Support
 
