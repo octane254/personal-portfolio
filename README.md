@@ -26,7 +26,7 @@ A modern, fully responsive portfolio website built with React, Vite, and Tailwin
 - **Styling:** TailwindCSS
 - **Icons:** Lucide React
 - **UI Components:** Radix UI
-- **Type Safety:** TypeScript (optional)
+- **Type Safety:** Javascript(optional)
 - **Deployment:** Vercel/GitHub Pages
 
 ## 🚀 Quick Start
