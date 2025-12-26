@@ -26,7 +26,7 @@ A modern, fully responsive portfolio website built with React, Vite, and Tailwin
 - **Styling:** TailwindCSS
 - **Icons:** Lucide React
 - **UI Components:** Radix UI
-- **Type Safety:** TypeScript (optional)
+- **Type Safety:** Javascript(optional)
 - **Deployment:** Vercel/GitHub Pages
 
 ## 🚀 Quick Start
@@ -150,7 +150,7 @@ This project is Moringa School FOr Educational Purposes
 **Eric Mbithi**
 
 - GitHub: [@octane254](https://github.com/octane254)
-- Portfolio: [Your Live Portfolio URL]
+- Portfolio: (https://personal-portfolio-ten-tan-82.vercel.app/)
 
 ## ⭐ Show Your Support
 
